@@ -24,7 +24,7 @@ Dependencies:
     *   Obtain your bot token from [BotFather on Telegram](https://t.me/BotFather).
     *   Inside the `.env` file, add the following line, placing your actual token between the quotation marks:
 ```env
-        BOT_TOKEN=""
+        BOT_TOKEN="YOUR_TOKEN_HERE"
 ```
 4.  Run the bot:
     ```bash
